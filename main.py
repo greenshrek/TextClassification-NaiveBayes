@@ -12,7 +12,6 @@ path_neg = "data/train/neg"
 listing_pos = os.listdir(path_pos)
 listing_neg = os.listdir(path_neg)
 
-#print (listing)
 
 pos_words = {}
 neg_words = {}
